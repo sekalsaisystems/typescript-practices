@@ -88,3 +88,9 @@ const pName ="Test" // Error: Cannot access 'pName' before initialization'
 
 var x;
 console.log(x);
+
+let a =10;
+let b=20;
+let c:number="abc"
+let d=a+b;
+console.log(d)
